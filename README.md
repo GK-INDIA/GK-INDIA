@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gyan Prakash Konhar
-- 👀 I’m interested in ...DevOps + Linux Administration + Networking + Cybersecurity
+- 👀 I’m interested in ...Data Science + Statistics + Machine Learning + Artificial Intelligence + DevOps
 - 🌱 I’m currently learning ...all that improves my skill
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
